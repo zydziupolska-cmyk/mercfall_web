@@ -94764,7 +94764,7 @@ gLy(){return B.b.cI(B.i5,0,new A.a7C(this))},
 gJ_(){return B.c.e1(B.e.S(B.c.e1(this.c.gfX()/10),1,999)*this.ch.gasF())},
 gJ0(){return B.e.jS(this.gLy(),B.e.S(this.gJ_(),1,999))},
 OH(){var s,r,q,p,o,n,m,l,k=this
-B.b.I(k.c.a,A.b([new A.dh(B.bI,B.aY,5,0,0)],t.Ec))
+B.b.I(k.c.a,A.b([new A.dh(B.bI,B.aY,10,0,0)],t.Ec))
 s=t.aH
 r=A.b([B.uv,B.uE,B.uB,B.uy],s)
 q=Date.now()
@@ -95038,7 +95038,7 @@ b1=t.j
 r=b1.b(s)&&J.xE(s)
 q=a9.c.a
 if(r)B.b.I(q,A.aXL(s).a)
-else B.b.I(q,A.b([new A.dh(B.bI,B.aY,5,0,0)],t.Ec))
+else B.b.I(q,A.b([new A.dh(B.bI,B.aY,10,0,0)],t.Ec))
 r=A.bS(b2.h(0,"platoonCounter"))
 a9.e=r==null?0:r
 r=A.fk(b2.h(0,"campaignMorale"))
